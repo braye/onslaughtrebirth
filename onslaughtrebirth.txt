@@ -1,0 +1,12 @@
+"onslaughtrebirth"
+{
+    "base"          "base"
+    "title"         "Onslaught: Rebirth"
+    "maps"          "^osr_"
+    "menusystem"    "1"
+
+    "settings"
+    {
+
+    }
+}
